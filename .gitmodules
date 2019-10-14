@@ -1,0 +1,6 @@
+[submodule "FNA"]
+	path = FNA
+	url = ./FNA
+[submodule "Nez"]
+	path = Nez
+	url = ./Nez
